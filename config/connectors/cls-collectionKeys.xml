@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
+        <servicesKeys>
+            <keyDetails collectionKey="ccs:listQueue_sqs_ccs" connectorServiceName="ccs:listQueue_sqs_ccs"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
